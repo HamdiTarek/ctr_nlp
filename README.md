@@ -2,12 +2,12 @@
 Click-Through Rate Prediction with NLP
 
 ## Dataset:
-Dataset1 Column names: date, market, keyword, position, cpc, click, ctr, impressions, cost
+Dataset1 Column names: date, market, keyword, position, cpc, click, ctr, impressions, cost </br>
 Dataset2 Column names: 
 
 
 ## Update:
-Need to do some work around deep learning and update my prediction algorithm.
+work in progress...
 
 ## References:
 - https://arxiv.org/pdf/1706.06978.pdf
